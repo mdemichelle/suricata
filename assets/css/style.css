@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.nav-log{
+    width: 130px;
+}
+.color-nav{
+    background-color: #e83e86;
+}
+
+.nav-altura{
+    height: 75%;
+}
+
+.navbar-light .navbar-toggler{
+    border-color: rgba(255, 255, 255, 0.596);
+}
+
+.pagos{
+    height: 175px;
+}
+
+.icons{
+    height: 50px;
+}
+.footer{
+    height: 185px;
+}
+
+.footer-logo{
+    width: 55px;
+}
+
+@media (max-width: 500px) {
+    .footer-logo {
+        width: 35px;
+    }
+}
+
